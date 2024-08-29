@@ -1,0 +1,4 @@
+1.image background blurr
+2.read more details of each project and github link
+3.style the foarm and add extra designs
+4.extra fuctions
